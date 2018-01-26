@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the Numbers component 1`] = `
+<div
+  className="card text-center"
+>
+  <div
+    className="numbers"
+  >
+    <span
+      key="1"
+      onClick={[Function]}
+    >
+      1
+    </span>
+    <span
+      className="selected"
+      key="2"
+      onClick={[Function]}
+    >
+      2
+    </span>
+    <span
+      key="3"
+      onClick={[Function]}
+    >
+      3
+    </span>
+    <span
+      className="selected"
+      key="4"
+      onClick={[Function]}
+    >
+      4
+    </span>
+    <span
+      key="5"
+      onClick={[Function]}
+    >
+      5
+    </span>
+    <span
+      key="6"
+      onClick={[Function]}
+    >
+      6
+    </span>
+    <span
+      key="7"
+      onClick={[Function]}
+    >
+      7
+    </span>
+    <span
+      key="8"
+      onClick={[Function]}
+    >
+      8
+    </span>
+    <span
+      key="9"
+      onClick={[Function]}
+    >
+      9
+    </span>
+  </div>
+</div>
+`;

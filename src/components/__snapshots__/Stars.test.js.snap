@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the Stars component 1`] = `
+<div
+  className="col-5 stars"
+>
+  <i
+    className="fa fa-star"
+    key="0"
+  />
+  <i
+    className="fa fa-star"
+    key="1"
+  />
+  <i
+    className="fa fa-star"
+    key="2"
+  />
+</div>
+`;
